@@ -1,5 +1,3 @@
-
-
 function EventHandler(events) {
     this.events = events;
 
